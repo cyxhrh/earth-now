@@ -4,7 +4,9 @@
 
 [![CI](https://github.com/cyxhrh/earth-now/actions/workflows/ci.yml/badge.svg)](https://github.com/cyxhrh/earth-now/actions/workflows/ci.yml) · [MIT](LICENSE) · [下载源码](https://github.com/cyxhrh/earth-now/releases) · [问题反馈](https://github.com/cyxhrh/earth-now/issues)
 
-![地球此刻演示模式，图中内容均为虚构示例](docs/assets/demo-globe.png)
+![地球此刻真实新闻模式：全球新闻卡片、地点连线与图文推荐](docs/assets/live-globe.jpg)
+
+当前界面实拍（2026-09-19）：真实新闻模式，内容随采集批次变化。新闻文字与图片归原发布方；无需密钥的演示模式使用虚构示例。
 
 ## 能做什么
 
