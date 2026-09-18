@@ -1,0 +1,33 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*
+!.env.example
+!.env.translation.example
+*.local
+*.tsbuildinfo
+output/
+data/
+.playwright-cli/
+*.log
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+# Internal project history stays on the author's machine; public docs are curated.
+/docs/*
+!/docs/configuration.md
+!/docs/architecture.md
+!/docs/self-hosting.md
+!/docs/assets/
+docs/superpowers/
+docs/*verification*.md
+docs/backend-audit-*.md
+docs/backend-fixes-*.md
+docs/*2026-09-18.md
+docs/launch-roadmap.md
+docs/open-source-release.md
+# Historical, unused texture sources; current textures retain attribution.
+public/textures/earth-surface-8k.jpg
+public/textures/earth-blue-marble-8k.jpg

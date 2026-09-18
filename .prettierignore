@@ -1,0 +1,5 @@
+node_modules
+dist
+output
+package-lock.json
+.playwright-cli
